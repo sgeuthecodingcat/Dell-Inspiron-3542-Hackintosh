@@ -1,3 +1,5 @@
+# ⚠ Hey there, Lazy one! ⚠
+This is a **reccomendation!** Please build your own EFI folder for hackintoshing!! **Do not use others'** You _can_ use this one, but please build your own EFI, ***you will never know when this breaks, and since you didn't make this EFI yourself, you will not know how to fix it when it does!! and since I am NOT OBLIGATED TO HELP YOU, and I most likely WILL NOT help!!***
 ![](https://raw.githubusercontent.com/sgeuthecodingcat/inspiron-3542-hackintosh/main/Opencore.png)
 
 
